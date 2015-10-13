@@ -30,6 +30,6 @@ for (var index = 0; index < reindeer.length; index++) {
   console.log(output);
 }
 
-console.log(output);
+console.log(output); 
 
 hohohoElement.innerHTML = output;
